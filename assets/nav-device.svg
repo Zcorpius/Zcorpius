@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 46" role="img" aria-labelledby="title">
+  <title id="title">真机界面</title>
+  <rect x="1" y="1" width="148" height="44" rx="12" fill="#fbfefe" stroke="#d3e7e9" stroke-width="2"/>
+  <g transform="translate(15 12) scale(.9)" fill="none" stroke="#148d94" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="2.5" width="12" height="19" rx="2.5"/>
+    <path d="M10 5h4m-3 13.5h2"/>
+  </g>
+  <text x="47" y="30" fill="#284f65" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="17" font-weight="600">真机界面</text>
+  <path d="M128 27l7-7m-6 0h6v6" fill="none" stroke="#64b9bd" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

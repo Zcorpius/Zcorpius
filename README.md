@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zcorpius/MatrixAgentProject"><img src="assets/icon-project.svg" width="18" height="18" alt="" /> 项目主页</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Zcorpius/MatrixAgentProject#experience"><img src="assets/icon-device.svg" width="18" height="18" alt="" /> 真机界面</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Zcorpius/MatrixAgentProject#architecture"><img src="assets/icon-architecture.svg" width="18" height="18" alt="" /> 系统架构</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://zcorpius.github.io/"><img src="assets/icon-writing.svg" width="18" height="18" alt="" /> 技术博客</a>
+  <a href="https://github.com/Zcorpius/MatrixAgentProject"><img src="assets/nav-project.svg" width="150" height="46" alt="项目主页" /></a>
+  &nbsp;
+  <a href="https://github.com/Zcorpius/MatrixAgentProject#experience"><img src="assets/nav-device.svg" width="150" height="46" alt="真机界面" /></a>
+  &nbsp;
+  <a href="https://github.com/Zcorpius/MatrixAgentProject#architecture"><img src="assets/nav-architecture.svg" width="150" height="46" alt="系统架构" /></a>
+  &nbsp;
+  <a href="https://zcorpius.github.io/"><img src="assets/nav-writing.svg" width="150" height="46" alt="技术博客" /></a>
 </p>
