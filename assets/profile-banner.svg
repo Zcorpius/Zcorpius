@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1600 420" role="img" aria-labelledby="title description">
+  <title id="title">Zcorpius — Android Systems and On-device AI</title>
+  <desc id="description">A bright technical banner with navy typography, teal circuitry, and a geometric Z mark.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6fbfc"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#17354b"/>
+      <stop offset="1" stop-color="#0a8291"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#159998"/>
+      <stop offset="0.5" stop-color="#22c8bd"/>
+      <stop offset="1" stop-color="#2687c1"/>
+    </linearGradient>
+    <radialGradient id="wash" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#bcefea" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#bcefea" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#dcebef" stroke-width="1" opacity="0.75"/>
+      <circle cx="0" cy="0" r="1.5" fill="#bddce0"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1598" height="418" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="420" fill="url(#paper)"/>
+    <rect width="1600" height="420" fill="url(#grid)" opacity="0.6"/>
+    <ellipse cx="1325" cy="180" rx="360" ry="280" fill="url(#wash)"/>
+    <path d="M0 347H790" fill="none" stroke="#dcecee" stroke-width="2"/>
+    <path d="M0 350H500" fill="none" stroke="url(#signal)" stroke-width="4"/>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+      <text x="84" y="86" fill="#147f86" font-size="23" font-weight="700" letter-spacing="5">ANDROID SYSTEMS  /  ON-DEVICE AI</text>
+      <text x="78" y="207" fill="url(#ink)" font-size="104" font-weight="800" letter-spacing="-5">ZCORPIUS</text>
+      <text x="84" y="265" fill="#456878" font-size="27" font-weight="500" letter-spacing="1">Building intelligence into the system layer.</text>
+      <text x="84" y="388" fill="#73939e" font-size="20" font-weight="600" letter-spacing="3">AOSP  •  BINDER  •  SYSTEM AGENTS</text>
+    </g>
+
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M934 62h118c24 0 33 22 33 43v30" stroke="#cce9e9" stroke-width="3"/>
+      <path d="M943 344h105c29 0 42-18 42-43v-18" stroke="#a3dddc" stroke-width="3"/>
+      <path d="M1541 96h-96c-28 0-40 18-40 45v14" stroke="#c7e4eb" stroke-width="3"/>
+      <path d="M1543 322h-98c-26 0-42-18-42-42v-20" stroke="#9fd8e3" stroke-width="3"/>
+      <circle cx="1268" cy="210" r="150" stroke="#d0e8eb" stroke-width="2"/>
+      <circle cx="1268" cy="210" r="120" stroke="#b2dfe0" stroke-width="2" stroke-dasharray="7 11"/>
+      <circle cx="1268" cy="210" r="89" fill="#ffffff" stroke="#7dcacb" stroke-width="3"/>
+      <path d="M1218 169h94l-88 82h96" stroke="url(#signal)" stroke-width="16"/>
+      <path d="M1240 61v23M1293 336v23M1117 187h-29M1418 236h32" stroke="#40b9b6" stroke-width="3"/>
+    </g>
+
+    <g fill="#ffffff" stroke="#54c5c1" stroke-width="3">
+      <circle cx="1085" cy="136" r="7"/><circle cx="1090" cy="282" r="7"/>
+      <circle cx="1405" cy="154" r="7"/><circle cx="1403" cy="261" r="7"/>
+      <circle cx="1240" cy="61" r="7"/><circle cx="1293" cy="359" r="7"/>
+    </g>
+    <g fill="#e4f6f5" stroke="#88d4d0" stroke-width="2">
+      <rect x="930" y="52" width="15" height="15" rx="3"/>
+      <rect x="935" y="335" width="15" height="15" rx="3"/>
+      <rect x="1535" y="86" width="15" height="15" rx="3"/>
+      <rect x="1535" y="315" width="15" height="15" rx="3"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1598" height="418" rx="28" fill="none" stroke="#d9e8eb" stroke-width="2"/>
+</svg>
